@@ -11,3 +11,5 @@ I can say that I did face many challenges completing this project. I started off
 Also, I would have loved to do a voiceover for the project video, but apparently my body and pollen do not mix well. (I sure hope it's just allergies). I have been dealing with a sore throat for a minute now, and my voiceover would sound straight out of a horror movie, so I added descriptions beside every picture. 
 
 In the end, I think my project is about 95 percent of my original vision. There are probably some errors that I missed, or some wrong function, but that is perfectly fine. I hope to spend more time with it, without time constraints, and tweak it. From this project, I have learned more about the methods used in python, more about python dictionaries and lists. I have also learned that I am kind of a sloppy coder, and there are better ways to write code.
+
+# My Code For the Project is in the Yahtzee.py file
